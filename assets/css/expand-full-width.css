@@ -1,0 +1,28 @@
+.bg-image-section {
+    max-width: 1320px;
+    padding-left: 20px;
+    padding-right: 20px;
+    margin: 0 auto;
+}
+
+.bg-image-cta {
+    background-repeat: no-repeat;
+    background-size: cover;
+    height: auto;
+    margin: 0 auto;
+    padding: 60px 0;
+    position: relative;
+    border-radius: 16px;
+    transition: 0.3s;
+    -webkit-transition: 0.3s;
+    -moz-transition: 0.3s;
+    -o-transition: 0.3s;
+    height: 600px;
+}
+
+.bg-image-cta {
+    padding: 37px 0;
+    clip-path: inset(5.5% round 16px);
+    max-width: 100%;
+    border-radius: 0;
+}
